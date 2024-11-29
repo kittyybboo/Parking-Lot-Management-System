@@ -10,7 +10,12 @@ This system aims to simplify parking management for users and administrators, en
 - User-friendly interface
 
 ## Team Members
-- TEAM OFFLINE
+- Angintaopan
+- Baldovi
+- Balt
+- Felomino
+- H.Ali
+- Uy
 
 ## License
 This project is licensed under the MIT License.
